@@ -1,0 +1,5 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8±à’¤0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áó ªúÿÿÿÿ
